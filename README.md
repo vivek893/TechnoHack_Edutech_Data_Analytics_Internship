@@ -1,4 +1,4 @@
-# TechnoHack_Edutech_Data_Analytics_Internship
+
 <h1>TechnoHack Edutech Data Analytics Internship</h1>
 <br>
 Author: Vivek Kumar
